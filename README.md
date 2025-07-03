@@ -26,7 +26,7 @@ Here are some of my featured projects:
 ### 🛍️ Online Fashion Store
 A dynamic e-commerce website for men's and women's fashion. Features product browsing, user accounts, and a complete shopping interface.  
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript and bootstrap  
-🔗 **[View Live Demo](http://fasioncloth.great-site.net/serv.php?i=1)**
+🔗 **[View Live Demo](http://fasioncloth.great-site.net/index.php?i=1)**
 
 ---
 
