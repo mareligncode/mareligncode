@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marelign Yimer Bizualem
 
 🎓 A final-year Computer Science student at **Bahir Dar University**, Ethiopia.  
-💻 I'm a passionate Full-Stack Developer specializing in building robust web and mobile application specially web application.  
+💻 I'm a passionate Full-Stack Developer specializing in building robust web and mobile application specially web applications.  
 🌐 **Portfolio:** [portfolio-maru.lovestoblog.com](http://portfolio-maru.lovestoblog.com)  
 📧 **Email:** [yimermarelign@gmail.com](mailto:yimermarelign@gmail.com)  
 🐙 **GitHub:** [github.com/mareligncode](https://github.com/mareligncode)
@@ -10,10 +10,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap,react
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, react
 - **Backend:** Node.js, Express.js, PHP
 - **Mobile:** Flutter (Dart)
-- **Database:** MySQL, sql 
+- **Database:** MySQL,sql
 - **Desktop:** JavaFX (Java)
 - **Tools:** Git, GitHub, VS Code, figma
 
@@ -23,26 +23,21 @@
 
 Here are some of my featured projects:
 
-### 📱 Flutter Scientific Calculator
-A fully functional scientific calculator app built with Flutter, featuring trigonometric, logarithmic, and constant support.  
-**Tech:** Flutter, Dart  
-🔗 **[View Repository](https://github.com/mareligncode/YOUR-REPO-NAME-HERE)**
+### 🛍️ Online Fashion Store
+A dynamic e-commerce website for men's and women's fashion. Features product browsing, user accounts, and a complete shopping interface.  
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript and bootstrap  
+🔗 **[View Live Demo](http://fasioncloth.great-site.net/serv.php?i=1)**
 
 ---
 
-### 💬 JavaFX Real-time Chat App
-A real-time desktop chat system using JavaFX with features like user login, private messaging, and file sharing.  
-**Tech:** JavaFX, MySQL, Socket Programming  
-🔗 **[View Repository](https://github.com/mareligncode/YOUR-REPO-NAME-HERE)**
+### 📚 E-learning Platform
+A web application for online learning, featuring a secure user authentication system (sign-up and login) to grant access to different educational courses.  
+**Tech:** PHP, MySQL, HTML, CSS  
+🔗 **[View Live Demo](http://maruman.free.nf/signUp.php?i=1)**
 
 ---
 
-### 🧑‍🎓 University Student Management System
-A complete web application for managing student data, courses, and grades for a university.  
-**Tech:** PHP, HTML/CSS, JavaScript, MySQL, Bootstrap  
-🔗 **[View Repository](https://github.com/mareligncode/YOUR-REPO-NAME-HERE)**
 
----
 
 ## 📈 GitHub Stats
 
@@ -52,7 +47,7 @@ A complete web application for managing student data, courses, and grades for a 
 
 ## 🌱 Currently Learning
 
-- React.js for modern frontend development.
+-advanced React.js for modern frontend development.
 - Advanced Node.js concepts and authentication patterns.
 - Software engineering best practices and design patterns.
 
@@ -62,3 +57,4 @@ A complete web application for managing student data, courses, and grades for a 
 
 - 📧 **Email:** [yimermarelign@gmail.com](mailto:yimermarelign@gmail.com)
 - 🌐 **Portfolio:** [portfolio-maru.lovestoblog.com](http://portfolio-maru.lovestoblog.com)
+
